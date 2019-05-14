@@ -3,7 +3,7 @@ $servername = "localhost";
 $username = "root";
 $password = "root";
 $dbname = "usuarios";
-$sql = "Select users.name, users.lastName, users.username, users.perfil, socialmedia.mmr from users join socialmedia";
+$sql = "select * from users left join socialmedia on users.username = socialmedia.username";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
