@@ -82,6 +82,7 @@ $social = $CRUD->socialMedia($usuario);
 
             <div class="tab-content">
                 <div class="tab-pane active" id="home">
+                    <h2>DATOS PERSONALES</h2>
                     <hr>
                     <form class="form" action="../php/CRUD.php" method="post" id="registrationForm">
                         <div class="form-group">
