@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<title>Looking For Gamers</title>
+<title>Login</title>
 <link rel="icon" href="../images/icono.png" type="image/x-icon">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

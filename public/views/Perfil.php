@@ -32,7 +32,7 @@ if(isset($_GET['error']) && $_GET['error'] == 1){
     <!------ Include the above in your HEAD tag ---------->
 
     <head>
-        <title>Bootstrap Example</title>
+        <title>Perfil</title>
         <link rel="stylesheet" href="../css/perfil.css">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
