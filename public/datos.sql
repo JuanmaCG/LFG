@@ -47,7 +47,7 @@ begin
 
 set new.perfil = concat("<a href='perfilUser.php?username=", new.username, "'>Perfil</a>");
 
-end;;
+end;; 
 
 DELIMITER ;
 
